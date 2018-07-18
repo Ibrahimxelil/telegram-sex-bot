@@ -1,0 +1,17 @@
+{
+  "name": "tbot",
+  "version": "1.0.0",
+  "description": "my first telegram bot on node platform",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "telegram"
+  ],
+  "author": "wasya1212",
+  "license": "ISC",
+  "dependencies": {
+    "node-telegram-bot-api": "^0.30.0"
+  }
+}
